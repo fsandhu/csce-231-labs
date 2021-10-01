@@ -1,0 +1,7 @@
+information for attack lab
+
+my cookie: 0x1d6f8fa5
+
+my rsp: 0x55671638
+
+my cookie in hex: 31 64 36 66 38 66 61 35
